@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Shared Preference Assignment</string>
+    <string name="information">Information</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_age">Enter Age</string>
+    <string name="enter_phoneNumber">Enter Phone Number</string>
+    <string name="enter_city">Enter City</string>
+    <string name="save">Save</string>
+    <string name="show">Show</string>
+</resources>
